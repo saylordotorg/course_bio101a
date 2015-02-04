@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO101A - Introduction to Molecular and Cellular Biology"
+course: BIO101A
+course_fulltitle: "Introduction to Molecular and Cellular Biology"
+course_description: "Introductory course that explores the cell, examining the molecular components proteins, carbohydrates, nucleic acids, and lipids and the organelles and other cellular structures that these form. Special attention is given to DNA and genetics, cell metabolism, and the cell cycle including mitosis and meiosis."
+---
 **Unit 3: Cells** <span id="3"></span> 
 *Modern cell theory states that the cell is the smallest unit of life.
 In other words, the cell is the smallest thing that contains the
