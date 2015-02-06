@@ -1,4 +1,3 @@
-#Test
 Course Syllabus for "BIO101A: Introduction to Molecular and Cellular Biology"
 -----------------------------------------------------------------------------
 
