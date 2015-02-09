@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "BIO101A - Introduction to Molecular and Cellular Biology"
-course: BIO101A
-course_fulltitle: "Introduction to Molecular and Cellular Biology"
-course_description: "Introductory course that explores the cell, examining the molecular components proteins, carbohydrates, nucleic acids, and lipids and the organelles and other cellular structures that these form. Special attention is given to DNA and genetics, cell metabolism, and the cell cycle including mitosis and meiosis."
+title: "BIO101A: Introduction to Molecular and Cellular Biology"
+course_description: "An introduction to the cell that examines its molecular components, including proteins, carbohydrates, nucleic acids, and lipids, and an overview of the organelles and other cellular structures that these form. Special attention is given to DNA and genetics, cell metabolism, and the cell cycle including mitosis and meiosis."
+next: ../Unit09
+previous: ../Unit07
 ---
 **Unit 8: Cell Division** <span id="8"></span> 
 
