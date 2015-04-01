@@ -269,7 +269,7 @@ Upon successful completion of this unit, you will be able to:
     Life”**
     Link: Montgomery Community College: Professor Sniezek’s
     [“Introduction to Metabolism: Chapter 8: Metabolism, Energy, and
-    Life”](http://www.montgomerycollege.edu/~jsniezek/bi107.htm) (PowerPoint
+    Life”](http://web.archive.org/web/20121220043551/http://www.montgomerycollege.edu/~jsniezek/bi107.htm) (PowerPoint
     or PDF)  
       
      Instructions: Open the link and locate the PDF or PPT file for the
