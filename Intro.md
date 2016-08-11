@@ -1,7 +1,7 @@
 Course Syllabus for "BIO101A: Introduction to Molecular and Cellular Biology"
 -----------------------------------------------------------------------------
 
-**Please note: this [legacy course](https://sayloracademy.zendesk.com/hc/en-us/articles/206089967) does not offer a certificate and may contain 
+**Please note: A fully-supported version of BIO101 is available at [https://learn.saylor.org/course/bio101](https://learn.saylor.org/course/bio101). This [legacy version](https://sayloracademy.zendesk.com/hc/en-us/articles/206089967) of BIO101 does not offer a certificate and may contain 
 broken links and outdated information.** Although archived, it is open 
 for learning without registration or enrollment. Please consider contributing 
 updates to [this course on GitHub](https://github.com/saylordotorg/course_bio101a) 
