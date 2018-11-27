@@ -297,7 +297,7 @@ Upon successful completion of this unit, you will be able to:
 **4.7 Unit 4 Problem Set** <span id="4.7"></span> 
 -   **Assessment: The Saylor Foundation’s “BIO101 Unit 4 Problem Set”**
     Link: The Saylor Foundation’s [“BIO101 Unit 4 Problem
-    Set”](http://www.saylor.org/site/wp-content/uploads/2014/05/BIO101A-WSBCTCProblemSet4.pdf)
+    Set”](https://resources.saylor.org/archived/wp-content/uploads/2014/05/BIO101A-WSBCTCProblemSet4.pdf)
     (PDF)  
       
 
@@ -307,7 +307,7 @@ Upon successful completion of this unit, you will be able to:
     this assessment, though these concepts are related to what you have
     studied in this unit .You may check your answers against the [“Guide
     to
-    Responding”](http://www.saylor.org/site/wp-content/uploads/2014/05/BIO101A-GuidetoProblemSet4-FINAL.pdf)
+    Responding”](https://resources.saylor.org/archived/wp-content/uploads/2014/05/BIO101A-GuidetoProblemSet4-FINAL.pdf)
     (PDF) when you have finished.  
       
      Completing this assessment should take approximately 30 minutes.

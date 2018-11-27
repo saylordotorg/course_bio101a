@@ -233,7 +233,7 @@ Upon successful completion of this unit, you will be able to:
 
 -   **Reading: Wikipedia: “Human Homeostasis”**
     Link: Wikipedia: [“Human
-    Homeostasis”](http://www.saylor.org/site/wp-content/uploads/2013/04/BIO101A-1.3.1-HumanHomeostasis.pdf) (PDF)  
+    Homeostasis”](https://resources.saylor.org/archived/wp-content/uploads/2013/04/BIO101A-1.3.1-HumanHomeostasis.pdf) (PDF)  
       
      Instructions: Read this article to learn about the homeostasis of
     the human body. Be sure to take notes on individual topics, such as
@@ -316,7 +316,7 @@ Upon successful completion of this unit, you will be able to:
     “Adaptation and Evolution”**
     Link: Tennessee State University: Professor Dafeng Hui’s
     [“Adaptation and
-    Evolution”](http://www.saylor.org/site/wp-content/uploads/2010/11/BIO101-Adaptation-and-Evolution.ppt) (PDF)  
+    Evolution”](https://resources.saylor.org/archived/wp-content/uploads/2010/11/BIO101-Adaptation-and-Evolution.ppt) (PDF)  
       
      Instructions: Read the slides from this lecture, which explain
     adaptation and evolution.  

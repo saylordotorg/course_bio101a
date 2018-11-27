@@ -105,7 +105,7 @@ Upon successful completion of this unit, you will be able to:
 -   **Reading: Professor John W. Kimball’s Biology Pages:
     “Carbohydrates”**
     Link: Professor John W. Kimball’s Biology Pages:
-    [“Carbohydrates”](http://www.saylor.org/site/wp-content/uploads/2010/11/BIO101-Carbohydrates.pdf) (PDF)  
+    [“Carbohydrates”](https://resources.saylor.org/archived/wp-content/uploads/2010/11/BIO101-Carbohydrates.pdf) (PDF)  
       
      Instructions: Read this article for an introduction to the
     carbohydrates unit. Note that this reading covers the material you
@@ -527,7 +527,7 @@ lecture assigned beneath subunit 2.5. Please focus on the section from
 
 -   **Reading: Wikipedia: “Nucleotides”**
     Link: Wikipedia:
-    [“Nucleotides”](http://www.saylor.org/site/wp-content/uploads/2010/11/Wiki-Nucleotides.png) (HTML)  
+    [“Nucleotides”](https://resources.saylor.org/archived/wp-content/uploads/2010/11/Wiki-Nucleotides.png) (HTML)  
       
      Instructions: This diagram shows the differences between
     nucleosides and nucleotides, ribonucleotides and
@@ -742,12 +742,12 @@ change in shape or function during the biochemical reaction.*
     Colleges: “Problem Set 1”**
     Link: Washington State Board for Community & Technical Colleges:
     [“Problem Set
-    1”](http://www.saylor.org/site/wp-content/uploads/2011/09/WSBCTC-Problem-Set-1.pdf) (PDF)  
+    1”](https://resources.saylor.org/archived/wp-content/uploads/2011/09/WSBCTC-Problem-Set-1.pdf) (PDF)  
       
      Instructions: Complete the linked assessment. When you have
     finished, check your work against The Saylor Foundation’s [“Answer
     Key to Problem Set
-    1”](http://www.saylor.org/site/wp-content/uploads/2011/09/BIO101B-GuidetoProblemSet1-FINAL.pdf) (PDF).  
+    1”](https://resources.saylor.org/archived/wp-content/uploads/2011/09/BIO101B-GuidetoProblemSet1-FINAL.pdf) (PDF).  
       
      Completing this problem set should take approximately 2 hours and
     30 minutes.  
