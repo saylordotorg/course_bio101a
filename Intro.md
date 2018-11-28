@@ -86,7 +86,7 @@ computer;
  √    have competency in the English language; and  
   
  √    have read the [Saylor Student
-Handbook](https://resources.saylor.org/archived/wp-content/uploads/2012/05/Saylor-StudentHandbook.pdf).
+Handbook](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/05/Saylor-StudentHandbook.pdf).
 
 ### Course Information
 
@@ -121,7 +121,7 @@ following materials:
     & Physiology,
     7e*](http://highered.mcgraw-hill.com/sites/0072507470/student_view0/)
 -   Professor John W. Kimball’s *[Biology
-    Pages](https://resources.saylor.org/archived/wp-content/uploads/2010/11/BIO101-Carbohydrates.pdf)*
+    Pages](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2010/11/BIO101-Carbohydrates.pdf)*
 -   University of California, Davis’s *ChemWiki*: *[The Dynamic
     Chemistry Textbook](http://chemwiki.ucdavis.edu/)*
 

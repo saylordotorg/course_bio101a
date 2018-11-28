@@ -254,7 +254,7 @@ Upon successful completion of this unit, you will be able to:
 -   **Reading: DifferenceBetween.net: “Difference between Cytosol and
     Cytoplasm”**
     Link: DifferenceBetween.net: [“Difference between Cytosol and
-    Cytoplasm”](https://resources.saylor.org/archived/wp-content/uploads/2010/11/BIO101-Difference-Between-Cytosol-and-Cytoplasm.pdf) (PDF)  
+    Cytoplasm”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2010/11/BIO101-Difference-Between-Cytosol-and-Cytoplasm.pdf) (PDF)  
       
      Instructions: Read this explanation of the distinction between
     cellular cytoplasm and cytosol.  
@@ -272,7 +272,7 @@ Upon successful completion of this unit, you will be able to:
 -   **Reading: DifferenceBetween.net: “Difference between Cytosol and
     Cytoplasm”**
     Link: DifferenceBetween.net: [“Difference between Cytosol and
-    Cytoplasm”](https://resources.saylor.org/archived/wp-content/uploads/2010/11/BIO101-Difference-Between-Cytosol-and-Cytoplasm.pdf) (PDF)  
+    Cytoplasm”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2010/11/BIO101-Difference-Between-Cytosol-and-Cytoplasm.pdf) (PDF)  
       
      Instructions: Read this explanation of the distinction between
     cellular cytoplasm and cytosol.  

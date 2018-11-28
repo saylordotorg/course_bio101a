@@ -267,7 +267,7 @@ Upon successful completion of this unit, you will be able to:
 -   **Reading: Wikipedia: “Cellular Respiration: Theoretical Yields”**
 
     Link: Wikipedia: [“Cellular Respiration: Theoretical
-    Yields”](https://resources.saylor.org/archived/wp-content/uploads/2013/04/BIO101A-6.2.3-CellularRespiration.pdf) (PDF)  
+    Yields”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/04/BIO101A-6.2.3-CellularRespiration.pdf) (PDF)  
       
      Instructions: Read the “Efficiency of ATP Production” section.
     Understand when (i.e., during which stages) ATP is produced. Both
